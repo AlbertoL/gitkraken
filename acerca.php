@@ -6,5 +6,6 @@
 </head>
 <body>
 	<h1>Acerca de nosotros</h1>
+	<p>Este es el párrafo de Acerca</p>
 </body>
 </html>
